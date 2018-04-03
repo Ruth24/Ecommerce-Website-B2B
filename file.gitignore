@@ -1,0 +1,26 @@
+
+# Ignore everything in the root except the "wp-content" directory.
+/*
+!.gitignore
+!wp-content/
+
+# Ignore everything in the "wp-content" directory, except the
+# "themes" directories.
+wp-content/*
+
+!wp-content/themes/
+
+
+# Ignore everything in the "themes" directory, except the themes you
+# specify (see the commented-out example for a hint on how to do this.)
+wp-content/themes/*
+!wp-content\themes\flatsome_original
+!wp-content\themes\flatsome-child
+
+#Ignore the wp-config .php file and wp-uploads/content
+wp-config.php
+wp-content/uploads
+
+#Ignore the other files....
+wp-content/cache/
+wp-content/upgrade/
