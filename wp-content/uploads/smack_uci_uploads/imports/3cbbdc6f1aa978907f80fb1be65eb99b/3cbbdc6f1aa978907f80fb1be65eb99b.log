@@ -1,0 +1,12 @@
+ File has been used for this event: category_2017-11-01_153431.csv
+ Type of the imported file: csv
+ Revision of the which is used: 2
+ Mode of event: Insert
+ Total no of records: 5
+ Rows handled on each iterations (Based on your server configuration): 1
+ File used to import data into: product (product)
+[2017-11-01 19:49:33] Message: Inserted product ID: 936,  Status: publish 
+[2017-11-01 19:49:34] Message: Inserted product ID: 937,  Status: publish 
+[2017-11-01 19:49:35] Message: Inserted product ID: 938,  Status: publish 
+[2017-11-01 19:49:35] Message: Inserted product ID: 939,  Status: publish 
+[2017-11-01 19:49:35] Message: Inserted product ID: 940,  Status: publish 
