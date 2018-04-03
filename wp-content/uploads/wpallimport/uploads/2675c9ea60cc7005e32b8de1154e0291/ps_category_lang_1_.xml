@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id_category><![CDATA[1]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Root]]></name>
+		<description><![CDATA[]]></description>
+		<link_rewrite><![CDATA[root]]></link_rewrite>
+		<meta_title><![CDATA[]]></meta_title>
+		<meta_keywords><![CDATA[]]></meta_keywords>
+		<meta_description><![CDATA[]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[2]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Home]]></name>
+		<description><![CDATA[]]></description>
+		<link_rewrite><![CDATA[home]]></link_rewrite>
+		<meta_title><![CDATA[]]></meta_title>
+		<meta_keywords><![CDATA[]]></meta_keywords>
+		<meta_description><![CDATA[]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[24]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Machine Vision & Factory Automation Lenses]]></name>
+		<description><![CDATA[]]></description>
+		<link_rewrite><![CDATA[Machine-Vision-And-Factory-Automation-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Machine Vision & Factory Automation Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Machine Vision & Factory Automation Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Machine Vision & Factory Automation (FA & MV)]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[25]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[CCTV Lenses]]></name>
+		<description><![CDATA[]]></description>
+		<link_rewrite><![CDATA[CCTV-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[CCTV Lenses]]></meta_title>
+		<meta_keywords><![CDATA[CCTV Lenses]]></meta_keywords>
+		<meta_description><![CDATA[CCTV Lenses]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[26]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[4/3" XC Series]]></name>
+		<description><![CDATA[<p>4/3" XC Series</p>]]></description>
+		<link_rewrite><![CDATA[XC-Series]]></link_rewrite>
+		<meta_title><![CDATA[4/3" XC Series]]></meta_title>
+		<meta_keywords><![CDATA[4/3" XC Series]]></meta_keywords>
+		<meta_description><![CDATA[4/3" XC Series]]></meta_description>
+		<background_color><![CDATA[#999900]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[27]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[2/3" 10MP JC10M Series]]></name>
+		<description><![CDATA[2/3" 10MP JC10M Series]]></description>
+		<link_rewrite><![CDATA[10MP-JC10M-Series]]></link_rewrite>
+		<meta_title><![CDATA[2/3" 10MP JC10M Series]]></meta_title>
+		<meta_keywords><![CDATA[2/3" 10MP JC10M Series]]></meta_keywords>
+		<meta_description><![CDATA[2/3" 10MP JC10M Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[28]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[2/3" 5MP Plus JC5M2 Series]]></name>
+		<description><![CDATA[<p>2/3" 5MP Plus JC5M2 Series</p>]]></description>
+		<link_rewrite><![CDATA[5MP-Plus-JC5M2-Series]]></link_rewrite>
+		<meta_title><![CDATA[2/3" 5MP Plus JC5M2 Series]]></meta_title>
+		<meta_keywords><![CDATA[2/3" 5MP Plus JC5M2 Series]]></meta_keywords>
+		<meta_description><![CDATA[2/3" 5MP Plus JC5M2 Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[29]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Wide Angle Megapixel NCM Series]]></name>
+		<description><![CDATA[Wide Angle Megapixel NCM Series]]></description>
+		<link_rewrite><![CDATA[Wide-Angle-Megapixel-NCM-Series]]></link_rewrite>
+		<meta_title><![CDATA[Wide Angle Megapixel NCM Series]]></meta_title>
+		<meta_keywords><![CDATA[Wide Angle Megapixel NCM Series]]></meta_keywords>
+		<meta_description><![CDATA[Wide Angle Megapixel NCM Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[30]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[2/3" JCM Series]]></name>
+		<description><![CDATA[2/3" JCM Series]]></description>
+		<link_rewrite><![CDATA[JCM-Series]]></link_rewrite>
+		<meta_title><![CDATA[2/3" JCM Series]]></meta_title>
+		<meta_keywords><![CDATA[2/3" JCM Series]]></meta_keywords>
+		<meta_description><![CDATA[2/3" JCM Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[31]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[1" HC Series]]></name>
+		<description><![CDATA[<p>1" HC Series</p>]]></description>
+		<link_rewrite><![CDATA[HC-Series]]></link_rewrite>
+		<meta_title><![CDATA[1" HC Series]]></meta_title>
+		<meta_keywords><![CDATA[1" HC Series]]></meta_keywords>
+		<meta_description><![CDATA[1" HC Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[32]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[2/3" JC Series]]></name>
+		<description><![CDATA[2/3" JC Series]]></description>
+		<link_rewrite><![CDATA[JC-Series]]></link_rewrite>
+		<meta_title><![CDATA[2/3" JC Series]]></meta_title>
+		<meta_keywords><![CDATA[2/3" JC Series]]></meta_keywords>
+		<meta_description><![CDATA[2/3" JC Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[33]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[1/2" NCL Series]]></name>
+		<description><![CDATA[1/2" NCL Series]]></description>
+		<link_rewrite><![CDATA[NCL-Series]]></link_rewrite>
+		<meta_title><![CDATA[1/2" NCL Series]]></meta_title>
+		<meta_keywords><![CDATA[1/2" NCL Series]]></meta_keywords>
+		<meta_description><![CDATA[1/2" NCL Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[34]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Varifocal Lens]]></name>
+		<description><![CDATA[Varifocal Lens]]></description>
+		<link_rewrite><![CDATA[Varifocal-Lens]]></link_rewrite>
+		<meta_title><![CDATA[Varifocal Lens]]></meta_title>
+		<meta_keywords><![CDATA[Varifocal Lens]]></meta_keywords>
+		<meta_description><![CDATA[Varifocal Lens]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[35]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[1" SWIR HC-SW Series]]></name>
+		<description><![CDATA[<p>1" SWIR HC-SW Series</p>]]></description>
+		<link_rewrite><![CDATA[SWIR-HC-SW-Series]]></link_rewrite>
+		<meta_title><![CDATA[1" SWIR HC-SW Series]]></meta_title>
+		<meta_keywords><![CDATA[1" SWIR HC-SW Series]]></meta_keywords>
+		<meta_description><![CDATA[1" SWIR HC-SW Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[36]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Large Format NIR Series]]></name>
+		<description><![CDATA[Large Format NIR Series]]></description>
+		<link_rewrite><![CDATA[Large-Format-NIR-Series]]></link_rewrite>
+		<meta_title><![CDATA[Large Format NIR Series]]></meta_title>
+		<meta_keywords><![CDATA[Large Format NIR Series]]></meta_keywords>
+		<meta_description><![CDATA[Large Format NIR Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[37]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[1/3" NF-Mount NF Series]]></name>
+		<description><![CDATA[1/3" NF-Mount NF Series]]></description>
+		<link_rewrite><![CDATA[NF-Mount-NF-Series]]></link_rewrite>
+		<meta_title><![CDATA[1/3" NF-Mount NF Series]]></meta_title>
+		<meta_keywords><![CDATA[1/3" NF-Mount NF Series]]></meta_keywords>
+		<meta_description><![CDATA[1/3" NF-Mount NF Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[38]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Φ46 LF Series]]></name>
+		<description><![CDATA[<p>Φ46 LF Series</p>]]></description>
+		<link_rewrite><![CDATA[46-lf-series]]></link_rewrite>
+		<meta_title><![CDATA[&Phi;46 LF Series]]></meta_title>
+		<meta_keywords><![CDATA[&Phi;46 LF Series]]></meta_keywords>
+		<meta_description><![CDATA[&Phi;46 LF Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[39]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Φ30 CLS Series]]></name>
+		<description><![CDATA[<p>Φ30 CLS Series</p>]]></description>
+		<link_rewrite><![CDATA[30-cls-series]]></link_rewrite>
+		<meta_title><![CDATA[&Phi;30 CLS Series]]></meta_title>
+		<meta_keywords><![CDATA[&Phi;30 CLS Series]]></meta_keywords>
+		<meta_description><![CDATA[&Phi;30 CLS Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[40]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[1/2" 3CCD NC3 Series]]></name>
+		<description><![CDATA[1/2" 3CCD NC3 Series]]></description>
+		<link_rewrite><![CDATA[3CCD-NC3-Series]]></link_rewrite>
+		<meta_title><![CDATA[1/2" 3CCD NC3 Series]]></meta_title>
+		<meta_keywords><![CDATA[1/2" 3CCD NC3 Series]]></meta_keywords>
+		<meta_description><![CDATA[1/2" 3CCD NC3 Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[41]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Telecentric Lenses]]></name>
+		<description><![CDATA[Telecentric Lenses]]></description>
+		<link_rewrite><![CDATA[Telecentric-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Telecentric Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Telecentric Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Telecentric Lenses]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[42]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Macro Zoom Lenses]]></name>
+		<description><![CDATA[Macro Zoom Lenses]]></description>
+		<link_rewrite><![CDATA[Macro-Zoom-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Macro Zoom Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Macro Zoom Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Macro Zoom Lenses]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[43]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Zoom Day & Night Megapixel Lenses]]></name>
+		<description><![CDATA[<p>Zoom Day &amp; Night Megapixel Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Zoom-Day-And-Night-Megapixel-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Zoom Day & Night Megapixel Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Zoom Day & Night Megapixel Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Zoom Day & Night Megapixel Lenses]]></meta_description>
+		<background_color><![CDATA[#677064]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[44]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Zoom Megapixel Lenses]]></name>
+		<description><![CDATA[<p>Zoom Megapixel Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Zoom-Megapixel-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Zoom Megapixel Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Zoom Megapixel Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Zoom Megapixel Lenses]]></meta_description>
+		<background_color><![CDATA[#859393]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[45]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Zoom SWIR Lenses]]></name>
+		<description><![CDATA[<p>Zoom SWIR Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Zoom-SWIR-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Zoom SWIR Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Zoom SWIR Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Zoom SWIR Lenses]]></meta_description>
+		<background_color><![CDATA[#99909a]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[46]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Zoom High Resolution Lenses]]></name>
+		<description><![CDATA[<p>Zoom High Resolution Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Zoom-High-Resolution-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Zoom High Resolution Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Zoom High Resolution Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Zoom High Resolution Lenses]]></meta_description>
+		<background_color><![CDATA[#845a5a]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[47]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Varifocal Day & Night Megapixel Lenses]]></name>
+		<description><![CDATA[<p>Varifocal Day &amp; Night Megapixel Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Varifocal-Day-And-Night-Megapixel-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Varifocal Day & Night Megapixel Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Varifocal Day & Night Megapixel Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Varifocal Day & Night Megapixel Lenses]]></meta_description>
+		<background_color><![CDATA[#959371]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[48]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Varifocal Day & Night High Resolution Lenses]]></name>
+		<description><![CDATA[<p>Varifocal Day &amp; Night High Resolution Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Varifocal-Day-And-Night-High-Resolution-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Varifocal Day & Night High Resolution Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Varifocal Day & Night High Resolution Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Varifocal Day & Night High Resolution Lenses]]></meta_description>
+		<background_color><![CDATA[#99ab93]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[49]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Varifocal Megapixel Lenses]]></name>
+		<description><![CDATA[<p>Varifocal Megapixel Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Varifocal-Megapixel-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Varifocal Megapixel Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Varifocal Megapixel Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Varifocal Megapixel Lenses]]></meta_description>
+		<background_color><![CDATA[#606b74]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[50]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Varifocal High Resolution Lenses]]></name>
+		<description><![CDATA[<p>Varifocal High Resolution Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Varifocal-High-Resolution-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Varifocal High Resolution Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Varifocal High Resolution Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Varifocal High Resolution Lenses]]></meta_description>
+		<background_color><![CDATA[#6d676e]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[51]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Day & Night Megapixel P-Iris Lenses]]></name>
+		<description><![CDATA[<p>Day &amp; Night 5 Megapixel P-Iris Lenses</p>]]></description>
+		<link_rewrite><![CDATA[Day-And-Night-5-Megapixel-P-Iris-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[Day & Night Megapixel P-Iris Lenses]]></meta_title>
+		<meta_keywords><![CDATA[Day & Night Megapixel P-Iris Lenses]]></meta_keywords>
+		<meta_description><![CDATA[Day & Night 5 Megapixel P-Iris Lenses]]></meta_description>
+		<background_color><![CDATA[#ab9b9b]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[52]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[High Resolution Lenses]]></name>
+		<description><![CDATA[<p>High Resolution Lenses</p>]]></description>
+		<link_rewrite><![CDATA[High-Resolution-Lenses]]></link_rewrite>
+		<meta_title><![CDATA[High Resolution Lenses]]></meta_title>
+		<meta_keywords><![CDATA[High Resolution Lenses]]></meta_keywords>
+		<meta_description><![CDATA[High Resolution Lenses]]></meta_description>
+		<background_color><![CDATA[#9a8f75]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[53]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Cameras & Accessories]]></name>
+		<description><![CDATA[]]></description>
+		<link_rewrite><![CDATA[Accessories]]></link_rewrite>
+		<meta_title><![CDATA[Accessories]]></meta_title>
+		<meta_keywords><![CDATA[Accessories]]></meta_keywords>
+		<meta_description><![CDATA[Accessories]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[54]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Spacer Rings]]></name>
+		<description><![CDATA[Spacer Rings]]></description>
+		<link_rewrite><![CDATA[Spacer-Rings]]></link_rewrite>
+		<meta_title><![CDATA[Spacer Rings]]></meta_title>
+		<meta_keywords><![CDATA[Spacer Rings]]></meta_keywords>
+		<meta_description><![CDATA[Spacer Rings]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[55]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[C to CS-Mount Adapter]]></name>
+		<description><![CDATA[C to CS-Mount Adapter]]></description>
+		<link_rewrite><![CDATA[C-to-CS-Mount-Adapter]]></link_rewrite>
+		<meta_title><![CDATA[C to CS-Mount Adapter]]></meta_title>
+		<meta_keywords><![CDATA[C to CS-Mount Adapter]]></meta_keywords>
+		<meta_description><![CDATA[C to CS-Mount Adapter]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[56]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[2x Extenders]]></name>
+		<description><![CDATA[2x Extenders]]></description>
+		<link_rewrite><![CDATA[2x-Extenders]]></link_rewrite>
+		<meta_title><![CDATA[2x Extenders]]></meta_title>
+		<meta_keywords><![CDATA[2x Extenders]]></meta_keywords>
+		<meta_description><![CDATA[2x Extenders]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[57]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[1" 6MP Plus SC Series]]></name>
+		<description><![CDATA[<p>1" 6MP Plus SC Series</p>]]></description>
+		<link_rewrite><![CDATA[6MP-Plus-SC-Series]]></link_rewrite>
+		<meta_title><![CDATA[1" 6MP Plus SC Series]]></meta_title>
+		<meta_keywords><![CDATA[1" 6MP Plus SC Series]]></meta_keywords>
+		<meta_description><![CDATA[1" 6MP Plus SC Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[58]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[2/3" Anti-Shock & Vibration JCM-V Series]]></name>
+		<description><![CDATA[<p>2/3" Anti-Shock and Vibration JCM-V Series</p>]]></description>
+		<link_rewrite><![CDATA[anti-shock-vibration-jcm-v-series]]></link_rewrite>
+		<meta_title><![CDATA[]]></meta_title>
+		<meta_keywords><![CDATA[]]></meta_keywords>
+		<meta_description><![CDATA[]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[59]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Cinema & Photography]]></name>
+		<description><![CDATA[]]></description>
+		<link_rewrite><![CDATA[cinema-photography]]></link_rewrite>
+		<meta_title><![CDATA[]]></meta_title>
+		<meta_keywords><![CDATA[]]></meta_keywords>
+		<meta_description><![CDATA[]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[60]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Cameras]]></name>
+		<description><![CDATA[<p>Cameras</p>]]></description>
+		<link_rewrite><![CDATA[cameras]]></link_rewrite>
+		<meta_title><![CDATA[]]></meta_title>
+		<meta_keywords><![CDATA[]]></meta_keywords>
+		<meta_description><![CDATA[]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[61]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[Archived]]></name>
+		<description><![CDATA[]]></description>
+		<link_rewrite><![CDATA[archived]]></link_rewrite>
+		<meta_title><![CDATA[]]></meta_title>
+		<meta_keywords><![CDATA[]]></meta_keywords>
+		<meta_description><![CDATA[]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[63]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[1" Anti-Shock & Vibration HC-V Series]]></name>
+		<description><![CDATA[<p>1" Anti-Shock &amp; Vibration HC-V Series</p>]]></description>
+		<link_rewrite><![CDATA[1-anti-shock-vibration-hc-v-series]]></link_rewrite>
+		<meta_title><![CDATA[1" Anti-Shock and Vibration HC-V Series]]></meta_title>
+		<meta_keywords><![CDATA[]]></meta_keywords>
+		<meta_description><![CDATA[]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+	<node>
+		<id_category><![CDATA[64]]></id_category>
+		<id_shop><![CDATA[1]]></id_shop>
+		<id_lang><![CDATA[1]]></id_lang>
+		<name><![CDATA[2/3" 3MP JC3M2 Series]]></name>
+		<description><![CDATA[<p>2/3" 3MP JC3M2 Series</p>]]></description>
+		<link_rewrite><![CDATA[3mp-jc3m2-series]]></link_rewrite>
+		<meta_title><![CDATA[2/3" JC3M2 Series]]></meta_title>
+		<meta_keywords><![CDATA[kowa, 3mp,jc3m2,industrial lenses,machine vision,factory automation]]></meta_keywords>
+		<meta_description><![CDATA[2/3" JC3M2 Series]]></meta_description>
+		<background_color><![CDATA[]]></background_color>
+	</node>
+</data>
