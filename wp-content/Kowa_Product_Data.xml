@@ -1,0 +1,2319 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <row>
+    <ID>1255</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/0.jpg</Photo>
+    <Name>LM65-IR-F</Name>
+    <Reference>LM65-IR-F</Reference>
+    <Category>Large Format NIR Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+  
+  </row>
+  <row>
+    <ID>1277</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/0.jpg</Photo>
+    <Name>LM1120TC</Name>
+    <Reference>LM1120TC</Reference>
+    <Category>Telecentric Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>1256</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/0.jpg</Photo>
+    <Name>LM65-IR-P</Name>
+    <Reference>LM65-IR-P</Reference>
+    <Category>Large Format NIR Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>1278</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/0.jpg</Photo>
+    <Name>LM1125TC</Name>
+    <Reference>LM1125TC</Reference>
+    <Category>Telecentric Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>1276</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/0.jpg</Photo>
+    <Name>LM1138TC</Name>
+    <Reference>LM1138TC</Reference>
+    <Category>Telecentric Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>539</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/3/83.jpg</Photo>
+    <Name>LMZ16160M3P-SW</Name>
+    <Reference>LMZ16160M3P-SW</Reference>
+    <Category>Zoom SWIR Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1228</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/9/139.jpg</Photo>
+    <Name>LM4NCR</Name>
+    <Reference>LM4NCR</Reference>
+    <Category>High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>482</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/20.jpg</Photo>
+    <Name>LM16JC</Name>
+    <Reference>LM16JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>547</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/2/92.jpg</Photo>
+    <Name>LMZ112AMPDC</Name>
+    <Reference>LMZ112AMPDC</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1239</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/7/147.jpg</Photo>
+    <Name>LM12SC</Name>
+    <Reference>LM12SC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>490</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/8/28.jpg</Photo>
+    <Name>LM6NCL</Name>
+    <Reference>LM6NCL</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>555</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/0/100.jpg</Photo>
+    <Name>LMVZ3510A-IR (Discontinued)</Name>
+    <Reference>LMVZ3510A-IR</Reference>
+    <Category>Varifocal Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1247</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/2/202.jpg</Photo>
+    <Name>Kowa PROMINAR MFT 25mm f1.8</Name>
+    <Reference>Kowa PROMINAR MFT 25mm f1.8</Reference>
+    <Category>Cinema &amp; Photography</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>498</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/6/36.jpg</Photo>
+    <Name>LM25HC-SW</Name>
+    <Reference>LM25HC-SW</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>507</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/4/44.jpg</Photo>
+    <Name>LM28LF</Name>
+    <Reference>LM28LF</Reference>
+    <Category>Φ46 LF Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>395</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/7/4/174.jpg</Photo>
+    <Name>LM35XC</Name>
+    <Reference>LM35XC</Reference>
+    <Category>4/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1263</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/1/231.jpg</Photo>
+    <Name>LM8HC-V</Name>
+    <Reference>LM8HC-V</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>515</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/2/52.jpg</Photo>
+    <Name>LM50CLS</Name>
+    <Reference>LM50CLS</Reference>
+    <Category>Φ30 CLS Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>567</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1/2/112.jpg</Photo>
+    <Name>LMVZ550A-IR</Name>
+    <Reference>LMVZ550A-IR</Reference>
+    <Category>Varifocal Day &amp; Night High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>403</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/4/224.jpg</Photo>
+    <Name>LM50JC10M</Name>
+    <Reference>LM50JC10M</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1271</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/3/233.jpg</Photo>
+    <Name>LM12JC3M2</Name>
+    <Reference>LM12JC3M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>523</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/6/1/61.jpg</Photo>
+    <Name>LMZ45T3</Name>
+    <Reference>LMZ45T3</Reference>
+    <Category>Macro Zoom Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>578</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/3/123.jpg</Photo>
+    <Name>LMVZ256</Name>
+    <Reference>LMVZ256</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>412</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/4.jpg</Photo>
+    <Name>LM12JCM</Name>
+    <Reference>LM12JCM</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1280</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/4/0/240.jpg</Photo>
+    <Name>LMZ856-HD3</Name>
+    <Reference>LMZ856-HD3</Reference>
+    <Category>CCTV Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>531</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/7/4/74.jpg</Photo>
+    <Name>LMZ0812M3P-IR</Name>
+    <Reference>LMZ0812M3P-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>586</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/1/131.jpg</Photo>
+    <Name>LMVZ580A</Name>
+    <Reference>LMVZ580A</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>474</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/12.jpg</Photo>
+    <Name>LM16HC</Name>
+    <Reference>LM16HC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>542</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/7/87.jpg</Photo>
+    <Name>LMZ750AMP-XF</Name>
+    <Reference>LMZ750AMP-XF</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1231</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/2/142.jpg</Photo>
+    <Name>LM12NCR</Name>
+    <Reference>LM12NCR</Reference>
+    <Category>High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>485</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/23.jpg</Photo>
+    <Name>LM50JC</Name>
+    <Reference>LM50JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>550</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/5/95.jpg</Photo>
+    <Name>LMZ300AMP</Name>
+    <Reference>LMZ300AMP</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1242</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/5/0/150.jpg</Photo>
+    <Name>LM35SC</Name>
+    <Reference>LM35SC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>493</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/1/31.jpg</Photo>
+    <Name>LMVZ1040</Name>
+    <Reference>LMVZ1040</Reference>
+    <Category>Varifocal Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>558</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/3/103.jpg</Photo>
+    <Name>LMVZ9020A-IR</Name>
+    <Reference>LMVZ9020A-IR</Reference>
+    <Category>Varifocal Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1250</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/7/207.jpg</Photo>
+    <Name>LM16JCM-V</Name>
+    <Reference>LM16JCM-V</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>502</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/9/39.jpg</Photo>
+    <Name>LM50-IR-F</Name>
+    <Reference>LM50-IR-F</Reference>
+    <Category>Large Format NIR Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/8/3/183.jpg</Photo>
+    <Name>LM16JC5M2</Name>
+    <Reference>LM16JC5M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1258</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/5/215.jpg</Photo>
+    <Name>LM1121TC</Name>
+    <Reference>LM1121TC</Reference>
+    <Category>Telecentric Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>510</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/7/47.jpg</Photo>
+    <Name>LM35LF-48</Name>
+    <Reference>LM35LF-48</Reference>
+    <Category>Φ46 LF Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>561</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/6/106.jpg</Photo>
+    <Name>LMVZ3109M-IR</Name>
+    <Reference>LMVZ3109M-IR</Reference>
+    <Category>Varifocal Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>398</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/0/220.jpg</Photo>
+    <Name>LM8JC10M</Name>
+    <Reference>LM8JC10M</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1266</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/8/228.jpg</Photo>
+    <Name>LM25HC-V</Name>
+    <Reference>LM25HC-V</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>518</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/5/55.jpg</Photo>
+    <Name>LM12NC3</Name>
+    <Reference>LM12NC3</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>573</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1/8/118.jpg</Photo>
+    <Name>LMVZ41M</Name>
+    <Reference>LMVZ41M</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>407</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/8/6/186.jpg</Photo>
+    <Name>LM35JC5M2</Name>
+    <Reference>LM35JC5M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1274</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/7/237.jpg</Photo>
+    <Name>LM35JC3M2</Name>
+    <Reference>LM35JC3M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>581</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/6/126.jpg</Photo>
+    <Name>LMVZ282-HR</Name>
+    <Reference>LMVZ282-HR</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>415</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/7/7.jpg</Photo>
+    <Name>LM35JCM</Name>
+    <Reference>LM35JCM</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>534</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/7/8/78.jpg</Photo>
+    <Name>LMZ20750AMPDC-XF</Name>
+    <Reference>LMZ20750AMPDC-XF</Reference>
+    <Category>Zoom Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1223</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/4/134.jpg</Photo>
+    <Name>LM25JC5MM-IR</Name>
+    <Reference>LM25JC5MM-IR</Reference>
+    <Category>Day &amp; Night Megapixel P-Iris Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>477</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/5/15.jpg</Photo>
+    <Name>LM50HC</Name>
+    <Reference>LM50HC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>537</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/1/81.jpg</Photo>
+    <Name>LMZ7527AMPDC</Name>
+    <Reference>LMZ7527AMPDC</Reference>
+    <Category>Zoom Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1226</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/7/137.jpg</Photo>
+    <Name>LM2.3PB</Name>
+    <Reference>LM2.3PB</Reference>
+    <Category>High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>480</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/8/18.jpg</Photo>
+    <Name>LM8JC</Name>
+    <Reference>LM8JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>545</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/0/90.jpg</Photo>
+    <Name>LMZ123AMPDC-XF</Name>
+    <Reference>LMZ123AMPDC-XF</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1237</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/5/145.jpg</Photo>
+    <Name>C to CS-Mount Adapter</Name>
+    <Reference>C/CS-Mount Adapter</Reference>
+    <Category>C to CS-Mount Adapter</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>488</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/6/26.jpg</Photo>
+    <Name>LM4NCL</Name>
+    <Reference>LM4NCL</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>553</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/8/98.jpg</Photo>
+    <Name>LMZ111AMPDC</Name>
+    <Reference>LMZ111AMPDC</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1245</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/4/204.jpg</Photo>
+    <Name>Kowa PROMINAR MFT 8.5mm f2.8</Name>
+    <Reference>Kowa PROMINAR MFT 8.5mm f2.8</Reference>
+    <Category>Cinema &amp; Photography</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>496</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/4/34.jpg</Photo>
+    <Name>LM12HC-SW</Name>
+    <Reference>LM12HC-SW</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1253</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/0/210.jpg</Photo>
+    <Name>LM50JCM-V</Name>
+    <Reference>LM50JCM-V</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>505</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/2/42.jpg</Photo>
+    <Name>LM5NF</Name>
+    <Reference>LM5NF</Reference>
+    <Category>1/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>393</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/7/2/172.jpg</Photo>
+    <Name>LM16XC</Name>
+    <Reference>LM16XC</Reference>
+    <Category>4/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1261</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/2/212.jpg</Photo>
+    <Name>LMZ25300AMPDC-IR</Name>
+    <Reference>LMZ25300AMPDC-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>513</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/0/50.jpg</Photo>
+    <Name>LM28CLS</Name>
+    <Reference>LM28CLS</Reference>
+    <Category>Φ30 CLS Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>565</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1/0/110.jpg</Photo>
+    <Name>LMVZ38A-IR</Name>
+    <Reference>LMVZ38A-IR</Reference>
+    <Category>Varifocal Day &amp; Night High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>401</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/2/222.jpg</Photo>
+    <Name>LM25JC10M</Name>
+    <Reference>LM25JC10M</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1269</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/5/225.jpg</Photo>
+    <Name>LMZ25300M3P-IR</Name>
+    <Reference>LMZ25300M3P-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>521</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/9/59.jpg</Photo>
+    <Name>LM50TC</Name>
+    <Reference>LM50TC</Reference>
+    <Category>Telecentric Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>576</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/1/121.jpg</Photo>
+    <Name>LMVZ164</Name>
+    <Reference>LMVZ164</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>410</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2.jpg</Photo>
+    <Name>LM5JC1M</Name>
+    <Reference>LM5JC1M</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>529</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/7/1/71.jpg</Photo>
+    <Name>LMZ1177M3P-IR</Name>
+    <Reference>LMZ1177M3P-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>584</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/9/129.jpg</Photo>
+    <Name>LMVZ540A</Name>
+    <Reference>LMVZ540A</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>472</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/10.jpg</Photo>
+    <Name>LM8HC</Name>
+    <Reference>LM8HC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>540</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/5/85.jpg</Photo>
+    <Name>LMZ1177M3P-SW</Name>
+    <Reference>LMZ1177M3P-SW</Reference>
+    <Category>Zoom SWIR Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1229</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/0/140.jpg</Photo>
+    <Name>LM5NCR</Name>
+    <Reference>LM5NCR</Reference>
+    <Category>High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>483</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/21.jpg</Photo>
+    <Name>LM25JC</Name>
+    <Reference>LM25JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>548</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/3/93.jpg</Photo>
+    <Name>LMZ112AMP</Name>
+    <Reference>LMZ112AMP</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1240</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/8/148.jpg</Photo>
+    <Name>LM16SC</Name>
+    <Reference>LM16SC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>491</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/9/29.jpg</Photo>
+    <Name>LM12NCL</Name>
+    <Reference>LM12NCL</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>556</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/1/101.jpg</Photo>
+    <Name>LMVZ3510M-IR (Discontinued)</Name>
+    <Reference>LMVZ3510M-IR</Reference>
+    <Category>Varifocal Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1248</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/5/205.jpg</Photo>
+    <Name>LM8JCM-V</Name>
+    <Reference>LM8JCM-V</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>499</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/7/37.jpg</Photo>
+    <Name>LM35HC-SW</Name>
+    <Reference>LM35HC-SW</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>508</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/5/45.jpg</Photo>
+    <Name>LM28LF-48</Name>
+    <Reference>LM28LF-48</Reference>
+    <Category>Φ46 LF Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>396</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/7/5/175.jpg</Photo>
+    <Name>LM50XC</Name>
+    <Reference>LM50XC</Reference>
+    <Category>4/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1264</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/0/230.jpg</Photo>
+    <Name>LM12HC-V</Name>
+    <Reference>LM12HC-V</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>516</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/3/53.jpg</Photo>
+    <Name>LM4NC3</Name>
+    <Reference>LM4NC3</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>571</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1/6/116.jpg</Photo>
+    <Name>LMVZ41</Name>
+    <Reference>LMVZ41</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>404</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/8/4/184.jpg</Photo>
+    <Name>LM12JC5M2</Name>
+    <Reference>LM12JC5M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1272</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/5/235.jpg</Photo>
+    <Name>LM16JC3M2</Name>
+    <Reference>LM16JC3M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>524</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/6/2/62.jpg</Photo>
+    <Name>LMZ68M</Name>
+    <Reference>LMZ68M</Reference>
+    <Category>Macro Zoom Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>579</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/4/124.jpg</Photo>
+    <Name>LMVZ256A</Name>
+    <Reference>LMVZ256A</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>532</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/7/5/75.jpg</Photo>
+    <Name>LMZ20550AMPDC-IR</Name>
+    <Reference>LMZ20550AMPDC-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>587</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/2/132.jpg</Photo>
+    <Name>LMVZ510A</Name>
+    <Reference>LMVZ510A</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>475</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/13.jpg</Photo>
+    <Name>LM25HC</Name>
+    <Reference>LM25HC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>478</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/6/16.jpg</Photo>
+    <Name>LM75HC</Name>
+    <Reference>LM75HC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>543</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/8/88.jpg</Photo>
+    <Name>LMZ375AMPDC-XF</Name>
+    <Reference>LMZ375AMPDC-XF</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1232</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/3/143.jpg</Photo>
+    <Name>LM25JCR</Name>
+    <Reference>LM25JCR</Reference>
+    <Category>High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>486</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/4/24.jpg</Photo>
+    <Name>LM75JC</Name>
+    <Reference>LM75JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>551</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/6/96.jpg</Photo>
+    <Name>LMZ200AMPDC</Name>
+    <Reference>LMZ200AMPDC</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1243</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/5/1/151.jpg</Photo>
+    <Name>LM50SC</Name>
+    <Reference>LM50SC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>494</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/2/32.jpg</Photo>
+    <Name>LMVZ166HC</Name>
+    <Reference>LMVZ166HC</Reference>
+    <Category>Varifocal Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>559</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/4/104.jpg</Photo>
+    <Name>LMVZ9020M-IR</Name>
+    <Reference>LMVZ9020M-IR</Reference>
+    <Category>Varifocal Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1251</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/8/208.jpg</Photo>
+    <Name>LM25JCM-V</Name>
+    <Reference>LM25JCM-V</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>503</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/0/40.jpg</Photo>
+    <Name>LM50-IR-P</Name>
+    <Reference>LM50-IR-P</Reference>
+    <Category>Large Format NIR Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>386</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1.jpg</Photo>
+    <Name>LM8XC</Name>
+    <Reference>LM8XC</Reference>
+    <Category>4/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1259</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/6/216.jpg</Photo>
+    <Name>LM1122TC</Name>
+    <Reference>LM1122TC</Reference>
+    <Category>Telecentric Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>511</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/8/48.jpg</Photo>
+    <Name>LM50LF</Name>
+    <Reference>LM50LF</Reference>
+    <Category>Φ46 LF Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>563</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/8/108.jpg</Photo>
+    <Name>LMVZ990-IR</Name>
+    <Reference>LMVZ990-IR</Reference>
+    <Category>Varifocal Day &amp; Night High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>399</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/1/221.jpg</Photo>
+    <Name>LM12JC10M</Name>
+    <Reference>LM12JC10M</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1267</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/7/227.jpg</Photo>
+    <Name>LM35HC-V</Name>
+    <Reference>LM35HC-V</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>519</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/6/56.jpg</Photo>
+    <Name>LM25NC3</Name>
+    <Reference>LM25NC3</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>574</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1/9/119.jpg</Photo>
+    <Name>LMVZ655</Name>
+    <Reference>LMVZ655</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>408</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/6/8/168.jpg</Photo>
+    <Name>LM3NC1M</Name>
+    <Reference>LM3NC1M</Reference>
+    <Category>Wide Angle Megapixel NCM Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1275</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/8/238.jpg</Photo>
+    <Name>LM50JC3M2</Name>
+    <Reference>LM50JC3M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>582</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/7/127.jpg</Photo>
+    <Name>LMVZ282A-HR</Name>
+    <Reference>LMVZ282A-HR</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>416</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/8.jpg</Photo>
+    <Name>LM50JCM</Name>
+    <Reference>LM50JCM</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>535</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/7/9/79.jpg</Photo>
+    <Name>LMZ0824AMPDC-XF</Name>
+    <Reference>LMZ0824AMPDC-XF</Reference>
+    <Category>Zoom Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1224</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/5/135.jpg</Photo>
+    <Name>LM35JC5MM-IR</Name>
+    <Reference>LM35JC5MM-IR</Reference>
+    <Category>Day &amp; Night Megapixel P-Iris Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>538</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/2/82.jpg</Photo>
+    <Name>LMZ20750AMPDC-SW</Name>
+    <Reference>LMZ20750AMPDC-SW</Reference>
+    <Category>Zoom SWIR Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1227</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/8/138.jpg</Photo>
+    <Name>LM3PB</Name>
+    <Reference>LM3PB</Reference>
+    <Category>High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>481</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/9/19.jpg</Photo>
+    <Name>LM12JC</Name>
+    <Reference>LM12JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>546</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/1/91.jpg</Photo>
+    <Name>LMZ123AMP-XF</Name>
+    <Reference>LMZ123AMP-XF</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1238</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/6/146.jpg</Photo>
+    <Name>2x Extenders</Name>
+    <Reference>LMZ2EX</Reference>
+    <Category>2x Extenders</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>489</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/7/27.jpg</Photo>
+    <Name>LM5NCL</Name>
+    <Reference>LM5NCL</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>554</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/9/99.jpg</Photo>
+    <Name>LMVZ3510-IR (Discontinued)</Name>
+    <Reference>LMVZ3510-IR</Reference>
+    <Category>Varifocal Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1246</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/3/203.jpg</Photo>
+    <Name>Kowa PROMINAR MFT 12mm f1.8</Name>
+    <Reference>Kowa PROMINAR MFT 12mm f1.8</Reference>
+    <Category>Cinema &amp; Photography</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>497</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/5/35.jpg</Photo>
+    <Name>LM16HC-SW</Name>
+    <Reference>LM16HC-SW</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1254</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/1/211.jpg</Photo>
+    <Name>SC200PK1C Low Light Camera</Name>
+    <Reference>SC200PK1C</Reference>
+    <Category>Cameras</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>506</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/3/43.jpg</Photo>
+    <Name>LM9NF</Name>
+    <Reference>LM9NF</Reference>
+    <Category>1/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>394</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/7/3/173.jpg</Photo>
+    <Name>LM25XC</Name>
+    <Reference>LM25XC</Reference>
+    <Category>4/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1262</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/3/213.jpg</Photo>
+    <Name>LMZ25300M3P-SW</Name>
+    <Reference>LMZ25300M3P-SW</Reference>
+    <Category>Zoom SWIR Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>514</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/1/51.jpg</Photo>
+    <Name>LM35CLS</Name>
+    <Reference>LM35CLS</Reference>
+    <Category>Φ30 CLS Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>566</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1/1/111.jpg</Photo>
+    <Name>LMVZ282A-IR</Name>
+    <Reference>LMVZ282A-IR</Reference>
+    <Category>Varifocal Day &amp; Night High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>402</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/3/223.jpg</Photo>
+    <Name>LM35JC10M</Name>
+    <Reference>LM35JC10M</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1270</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/2/232.jpg</Photo>
+    <Name>LM8JC3M2</Name>
+    <Reference>LM8JC3M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>522</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/6/0/60.jpg</Photo>
+    <Name>LMZ50M</Name>
+    <Reference>LMZ50M</Reference>
+    <Category>Macro Zoom Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>577</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/2/122.jpg</Photo>
+    <Name>LMVZ164A</Name>
+    <Reference>LMVZ164A</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>411</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/3.jpg</Photo>
+    <Name>LM8JCM</Name>
+    <Reference>LM8JCM</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>530</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/7/3/73.jpg</Photo>
+    <Name>LMZ0812AMPDC-IR</Name>
+    <Reference>LMZ0812AMPDC-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>585</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/0/130.jpg</Photo>
+    <Name>LMVZ580</Name>
+    <Reference>LMVZ580</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>473</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1/11.jpg</Photo>
+    <Name>LM12HC</Name>
+    <Reference>LM12HC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>541</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/6/86.jpg</Photo>
+    <Name>LMZ750AMPDC-XF</Name>
+    <Reference>LMZ750AMPDC-XF</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1230</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/1/141.jpg</Photo>
+    <Name>LM6NCR</Name>
+    <Reference>LM6NCR</Reference>
+    <Category>High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>484</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/22.jpg</Photo>
+    <Name>LM35JC</Name>
+    <Reference>LM35JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>549</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/4/94.jpg</Photo>
+    <Name>LMZ300AMPDC</Name>
+    <Reference>LMZ300AMPDC</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1241</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/9/149.jpg</Photo>
+    <Name>LM25SC</Name>
+    <Reference>LM25SC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>492</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/0/30.jpg</Photo>
+    <Name>LMVZ4411</Name>
+    <Reference>LMVZ4411</Reference>
+    <Category>Varifocal Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>557</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/2/102.jpg</Photo>
+    <Name>LMVZ9020-IR</Name>
+    <Reference>LMVZ9020-IR</Reference>
+    <Category>Varifocal Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1249</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/6/206.jpg</Photo>
+    <Name>LM12JCM-V</Name>
+    <Reference>LM12JCM-V</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>500</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/8/38.jpg</Photo>
+    <Name>LM50HC-SW</Name>
+    <Reference>LM50HC-SW</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1257</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/4/214.jpg</Photo>
+    <Name>LM1119TC</Name>
+    <Reference>LM1119TC</Reference>
+    <Category>Telecentric Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>509</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/6/46.jpg</Photo>
+    <Name>LM35LF</Name>
+    <Reference>LM35LF</Reference>
+    <Category>Φ46 LF Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>560</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/5/105.jpg</Photo>
+    <Name>LMVZ3109A-IR</Name>
+    <Reference>LMVZ3109A-IR</Reference>
+    <Category>Varifocal Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>397</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/8/218.jpg</Photo>
+    <Name>LM5JC10M</Name>
+    <Reference>LM5JC10M</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1265</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/9/229.jpg</Photo>
+    <Name>LM16HC-V</Name>
+    <Reference>LM16HC-V</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>517</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/4/54.jpg</Photo>
+    <Name>LM6NC3</Name>
+    <Reference>LM6NC3</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>572</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/1/7/117.jpg</Photo>
+    <Name>LMVZ41A</Name>
+    <Reference>LMVZ41A</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>406</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/8/5/185.jpg</Photo>
+    <Name>LM25JC5M2</Name>
+    <Reference>LM25JC5M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1273</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/3/6/236.jpg</Photo>
+    <Name>LM25JC3M2</Name>
+    <Reference>LM25JC3M2</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>0</Status>
+    
+  </row>
+  <row>
+    <ID>580</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/5/125.jpg</Photo>
+    <Name>LMVZ272A</Name>
+    <Reference>LMVZ272A</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>533</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/7/7/77.jpg</Photo>
+    <Name>LMZ1000AMPDC-XF</Name>
+    <Reference>LMZ1000AMPDC-XF</Reference>
+    <Category>Zoom Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1222</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/3/133.jpg</Photo>
+    <Name>LM16JC5MM-IR</Name>
+    <Reference>LM16JC5MM-IR</Reference>
+    <Category>Day &amp; Night Megapixel P-Iris Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>476</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/14.jpg</Photo>
+    <Name>LM35HC</Name>
+    <Reference>LM35HC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>479</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/7/17.jpg</Photo>
+    <Name>LM6JC</Name>
+    <Reference>LM6JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>544</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/9/89.jpg</Photo>
+    <Name>LMZ375AMP-XF</Name>
+    <Reference>LMZ375AMP-XF</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1236</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/4/4/144.jpg</Photo>
+    <Name>Spacer Rings</Name>
+    <Reference>Spacer Rings</Reference>
+    <Category>Spacer Rings</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>487</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/5/25.jpg</Photo>
+    <Name>LM100JC</Name>
+    <Reference>LM100JC</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>552</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/7/97.jpg</Photo>
+    <Name>LMZ110AMPDC</Name>
+    <Reference>LMZ110AMPDC</Reference>
+    <Category>Zoom High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1244</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/7/0/170.jpg</Photo>
+    <Name>LM4NCM</Name>
+    <Reference>LM4NCM</Reference>
+    <Category>Wide Angle Megapixel NCM Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>495</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/3/3/33.jpg</Photo>
+    <Name>LM8HC-SW</Name>
+    <Reference>LM8HC-SW</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1252</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/0/9/209.jpg</Photo>
+    <Name>LM35JCM-V</Name>
+    <Reference>LM35JCM-V</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>504</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/1/41.jpg</Photo>
+    <Name>LM3NF</Name>
+    <Reference>LM3NF</Reference>
+    <Category>1/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>392</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/7/1/171.jpg</Photo>
+    <Name>LM12XC</Name>
+    <Reference>LM12XC</Reference>
+    <Category>4/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1260</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/7/217.jpg</Photo>
+    <Name>LM1123TC</Name>
+    <Reference>LM1123TC</Reference>
+    <Category>Telecentric Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>512</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/4/9/49.jpg</Photo>
+    <Name>LM50LF-48</Name>
+    <Reference>LM50LF-48</Reference>
+    <Category>Φ46 LF Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>564</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/0/9/109.jpg</Photo>
+    <Name>LMVZ990A-IR</Name>
+    <Reference>LMVZ990A-IR</Reference>
+    <Category>Varifocal Day &amp; Night High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>400</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/1/9/219.jpg</Photo>
+    <Name>LM16JC10M</Name>
+    <Reference>LM16JC10M</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1268</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/2/2/6/226.jpg</Photo>
+    <Name>LM50HC-V</Name>
+    <Reference>LM50HC-V</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>520</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/5/7/57.jpg</Photo>
+    <Name>LM50NC3</Name>
+    <Reference>LM50NC3</Reference>
+    <Category>1/2</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>575</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/0/120.jpg</Photo>
+    <Name>LMVZ655A</Name>
+    <Reference>LMVZ655A</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>409</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/6/9/169.jpg</Photo>
+    <Name>LM6NCM</Name>
+    <Reference>LM6NCM</Reference>
+    <Category>Wide Angle Megapixel NCM Series</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>583</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/2/8/128.jpg</Photo>
+    <Name>LMVZ540</Name>
+    <Reference>LMVZ540</Reference>
+    <Category>Varifocal High Resolution Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>417</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/9/9.jpg</Photo>
+    <Name>LM6HC</Name>
+    <Reference>LM6HC</Reference>
+    <Category>1</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>536</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/8/0/80.jpg</Photo>
+    <Name>LMZ1236AMPDC-XF</Name>
+    <Reference>LMZ1236AMPDC-XF</Reference>
+    <Category>Zoom Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>1225</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/3/6/136.jpg</Photo>
+    <Name>LM50-IR</Name>
+    <Reference>LM50-IR</Reference>
+    <Category>Day &amp; Night Megapixel P-Iris Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>526</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/9/1/191.jpg</Photo>
+    <Name>LMZ16160AMPDC-IR</Name>
+    <Reference>LMZ16160AMPDC-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>413</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/8/7/187.jpg</Photo>
+    <Name>LM16JCM</Name>
+    <Reference>LM16JCM</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>527</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/9/2/192.jpg</Photo>
+    <Name>LMZ16160M3P-IR</Name>
+    <Reference>LMZ16160M3P-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>525</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/9/0/190.jpg</Photo>
+    <Name>LMZ69M</Name>
+    <Reference>LMZ69M</Reference>
+    <Category>Macro Zoom Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>414</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/8/8/188.jpg</Photo>
+    <Name>LM25JCM</Name>
+    <Reference>LM25JCM</Reference>
+    <Category>2/3</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+  <row>
+    <ID>528</ID>
+    <Photo>http://lenses.kowa-usa.com/img/p/1/8/9/189.jpg</Photo>
+    <Name>LMZ1177AMPDC-IR</Name>
+    <Reference>LMZ1177AMPDC-IR</Reference>
+    <Category>Zoom Day &amp; Night Megapixel Lenses</Category>
+    <Base_Price>0.000000</Base_Price>
+    <Final_Price>0</Final_Price>
+    <Quantity>0</Quantity>
+    <Status>1</Status>
+    
+  </row>
+</root>
